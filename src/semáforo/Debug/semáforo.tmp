@@ -1,0 +1,47 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\Debug\semáforo.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>semáforo.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>semáforo.map</FILE>
+  <FILE>semáforo.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>62</LINE></reset>
+  <OCI1A_Interrupt><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>20</LINE></OCI1A_Interrupt>
+  <overflow><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>39</LINE></overflow>
+  <Delay><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>48</LINE></Delay>
+  <s1><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>103</LINE></s1>
+  <s1_routine><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>110</LINE></s1_routine>
+  <s2><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>145</LINE></s2>
+  <s2_routine><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>152</LINE></s2_routine>
+  <s3><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>187</LINE></s3>
+  <s3_routine><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>194</LINE></s3_routine>
+  <s4><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>228</LINE></s4>
+  <s4_routine><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>235</LINE></s4_routine>
+  <s5><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>269</LINE></s5>
+  <s5_routine><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>276</LINE></s5_routine>
+  <s6><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>310</LINE></s6>
+  <s6_routine><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>317</LINE></s6_routine>
+  <s7><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>351</LINE></s7>
+  <s7_routine><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>358</LINE></s7_routine>
+  <s8><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>395</LINE></s8>
+  <aux><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>392</LINE></aux>
+  <s8_routine><FILE>C:\Users\tayco\OneDrive\Área de Trabalho\semáforo\semáforo\main.asm</FILE><LINE>402</LINE></s8_routine>
+ </LABELS>
+</ASSEMBLER_INFO>
